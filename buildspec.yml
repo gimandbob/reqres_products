@@ -6,7 +6,7 @@ env:
     
 env:
   variables:
-    _PROJECT_NAME: "products"
+    _PROJECT_NAME: "user04-products"
 
 phases:
   install:
